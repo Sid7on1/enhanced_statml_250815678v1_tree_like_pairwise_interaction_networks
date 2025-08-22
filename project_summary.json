@@ -1,0 +1,16 @@
+{
+  "project_name": "enhanced_stat.ML_2508.15678v1_Tree_like_Pairwise_Interaction_Networks",
+  "project_type": "agent",
+  "completion_time": "2025-08-22T21:00:57.416813",
+  "total_tasks": 7,
+  "completed_tasks": 7,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/enhanced_stat.ML_2508.15678v1_Tree_like_Pairwise_Interaction_Networks"
+}
